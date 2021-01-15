@@ -1,11 +1,11 @@
 # learning_to_rank_in_python
 An exploration of learning-to-rank machine learning approaches in Python
 
+![](img/ltr_trees.jpg)
+
 ### Introduction
 
 Learning to Rank (LTR) algorithms are an interesting and useful sub-branch of machine learning. In this notebook we are going to explore several of these algorithms and have some fun with an open source ranking benchmark dataset.
-
-![](img/ltr_trees.jpg)
 
 ### Techniques
 

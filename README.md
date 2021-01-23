@@ -26,9 +26,6 @@ and then performed additional cleaning and enhancement with my own Python script
 Definitely check out Sophie Watson's talks and tutorial material on the learning to rank problem, her material was a big 
 help in getting going with the MSLR-WEB10K dataset. 
 
-I explore the performance of 5 algorithms in the two notebooks in this repository. 
-Random Baseline. Classification Baseline. RankNet. LambdaRank. LamdaMart. NDCG: Normalized Discounted Cumulative Gain
-
 ### Results and Discussion
 
 The notebook 'xgboost_document_relevance_classification.ipynb' attacks a simplified version of the learning to rank problem.

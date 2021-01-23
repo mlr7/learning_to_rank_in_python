@@ -62,7 +62,7 @@ You can read about the evolution of these three ranking algorithms in this paper
 
 Burges, Christopher JC. "From ranknet to lambdarank to lambdamart: An overview." Learning 11.23-581 (2010): 81.
 
-The table above just gives the average performance of the algorithms. More insight is 
+The bar plot above only indicates the average performance of the algorithms. More insight is 
 gained by examining the distribution of scores characterized by quantiles of the 
 empirical distributions of scores, and visualizing the shape of these distributions. 
 

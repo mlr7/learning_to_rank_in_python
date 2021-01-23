@@ -15,7 +15,7 @@ Random Baseline. Classification Baseline. RankNet. LambdaRank. LamdaMart. NDCG: 
 
 ### Results and Discussion
 
-![](img/confmatrix_metrix.png)
+![](img/conf_metrics_2.png)
 
 ![](img/feature_importance.png)
 
